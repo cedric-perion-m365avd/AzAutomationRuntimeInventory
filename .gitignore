@@ -1,0 +1,21 @@
+# Rapports generes localement
+*.html
+
+# Journaux et transcriptions PowerShell
+*.log
+*transcript*.txt
+
+# Resultats de tests Pester
+testResults*.xml
+TestResults/
+
+# Modules restaures localement
+Modules/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Editeurs
+.vscode/
+.idea/
